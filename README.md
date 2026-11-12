@@ -26,3 +26,9 @@ Melalui pengembangan proyek ini, beberapa konsep penting OOP berhasil dipelajari
 * **Runtime Type Checking & Downcasting:**
   * Menggunakan operator `instanceof` untuk mendeteksi kemampuan spesifik suatu objek secara dinamis di dalam perulangan *looping*.
   * Melakukan *downcasting* (`(NamaInterface) objek`) secara aman setelah pengecekan `instanceof` berhasil, guna memanggil metode khusus yang hanya ada di dalam *interface*.
+
+---
+
+## Output
+
+<img width="678" height="491" alt="Screenshot from 2026-11-12 09-47-02" src="https://github.com/user-attachments/assets/3f875fec-7391-4239-8794-d139ff0b22da" />
